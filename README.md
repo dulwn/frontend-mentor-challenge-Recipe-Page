@@ -16,7 +16,7 @@
 
 ## Overview
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). The challenge focuses on building a basic webpage with a static, single-page layout. Different style feature-custom color schemes, text fonts, and structural layout rules-applied entirely through CSS. 
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). The challenge focuses on building a basic webpage with a static, single-page layout. Different style features -custom color schemes, text fonts, and structural layout rules- are applied entirely through CSS. 
 
 ### Links
 
